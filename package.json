@@ -17,5 +17,6 @@
     "react-dom": "^19.0.0",
     "sass": "^1.87.0",
     "swiper": "^11.2.6"
-  }
+  },
+  "description": "cristo dashboard Next.js app — a JavaScript-powered project with useful, real-world functionality."
 }
